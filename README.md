@@ -1,2 +1,2 @@
 # CLI-aplicacion-terminal-CRUD
- Aplicacion con CLI para la terminal
+Application avec une interface en ligne de commande (CLI) pour le terminal.
